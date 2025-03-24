@@ -124,7 +124,7 @@ void setup() {
   pinMode(Pin_LED, OUTPUT);
   digitalWrite(Pin_LED, LOW);
   Serial.println("Gundam G Generation Pocket Punching Bag Start!");
-  Serial.println("Press A button to start a battle.");
+  Serial.println("Press GGP's button A to start the battle.");
 }
 
 void loop() {
